@@ -19,7 +19,7 @@ npm run preview
 ## 📁 Structure du projet
 
 ```
-montage-3d/
+projet-three.js vite/
 ├── public/          # Assets statiques (modèles 3D, textures, images)
 ├── src/             # Code source
 │   ├── main.js      # Point d'entrée de l'application
